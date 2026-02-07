@@ -1,6 +1,4 @@
-# Transciphering-study
-
-# From Hybrid Encryption to Transciphering: Lessons from My AES-RSA Implementation
+# From Hybrid Encryption to Transciphering: Lessons from My AES-RSA Implementation (Transciphering-study)
 
 **Jaydeep Dineshbhai Roy**  
 ESILV - Master in Cybersecurity & Cloud Computing  
