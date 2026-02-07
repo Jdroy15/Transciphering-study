@@ -86,38 +86,6 @@ My project taught me that theoretical security must be balanced with practical u
 
 ---
 
-## Why I'm Motivated to Work on HE Transciphering
-
-### **1. Natural Extension of My Experience:**
-My hybrid encryption project gave me hands-on understanding of:
-- Combining different cryptographic schemes
-- Optimizing for performance vs. security trade-offs
-- Implementing complex cryptographic protocols in Python
-
-Transciphering is a natural next step—applying these concepts to the cutting edge of privacy-preserving computation.
-
-### **2. Fascination with the Technical Challenge:**
-The idea of evaluating AES decryption **homomorphically** (performing the entire AES algorithm on encrypted data) is technically fascinating. It requires:
-- Deep understanding of both AES internals and HE schemes
-- Creative optimization (reducing multiplicative depth, optimizing S-boxes)
-- Rigorous performance analysis
-
-### **3. Real-World Impact:**
-Transciphering enables practical privacy-preserving cloud computing—allowing organizations to outsource computation on sensitive data without exposing it. This has applications in:
-- Healthcare (computing on encrypted medical records)
-- Finance (secure cloud analytics)
-- Machine learning (training on encrypted data)
-
-### **4. Research Opportunity:**
-Current transciphering implementations still face challenges:
-- High computational cost of homomorphic AES evaluation
-- Limited amortization across multiple transciphering operations
-- Trade-offs between security parameters and performance
-
-I'm excited to contribute to ongoing research optimizing these systems.
-
----
-
 ## Conclusion
 
 My AES-RSA hybrid encryption project provided practical insight into the fundamental challenge that transciphering addresses: **efficiently combining cryptographic schemes with different properties**. The experience of implementing scheme conversion, optimizing for performance, and managing overhead has prepared me to contribute to cutting-edge research in homomorphic encryption and transciphering.
@@ -126,5 +94,4 @@ I'm eager to deepen my understanding of lattice-based cryptography, implement HE
 
 ---
 
-**GitHub Repository:** [Link to your project]  
 **Contact:** jdroy@outlook.in | [linkedin.com/in/rdeej](https://linkedin.com/in/rdeej)
